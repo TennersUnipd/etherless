@@ -7,3 +7,6 @@
 [submodule "application/etherless-cli"]
 	path = application/etherless-cli
 	url = git@github.com:TennersUnipd/etherless-cli.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:TennersUnipd/docs.git
