@@ -1,3 +1,0 @@
-[submodule "Application/smart"]
-	path = Application/smart
-	url = git@github.com:TennersUnipd/Etherless-smart.git
