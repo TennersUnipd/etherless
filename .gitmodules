@@ -1,9 +1,6 @@
 [submodule "application/etherless-server"]
 	path = application/etherless-server
 	url = git@github.com:TennersUnipd/etherless-server.git
-[submodule "application/etherless-smart.git"]
-	path = application/etherless-smart.git
-	url = git@github.com:TennersUnipd/etherless-smart.git
 [submodule "application/etherless-cli"]
 	path = application/etherless-cli
 	url = git@github.com:TennersUnipd/etherless-cli.git
