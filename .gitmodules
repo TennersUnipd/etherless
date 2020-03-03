@@ -7,3 +7,6 @@
 [submodule "application/etherless-smart"]
 	path = application/etherless-smart
 	url = git@github.com:TennersUnipd/etherless-smart.git
+[submodule "documentation"]
+	path = documentation
+	url = https://github.com/TennersUnipd/sweDocs.git
