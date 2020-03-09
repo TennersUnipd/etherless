@@ -1,4 +1,4 @@
-# Ethereless
+# Etherless
 
 This is a project made for the software engineering class of Padua university made for Red Babel by Tenners.
 
