@@ -11,4 +11,4 @@ We build this project upon three modules [Etherless-cli](https://github.com/Tenn
 
 Every module has its readme for installation and configuration.
 
-We provide a PoC where there are some functions already loaded in the system, but for security reasons the repository doesn’t include the .env file needed for the correct execution of the PoC, we will provide it when asked.
+We provide a PoC where there are some functions already loaded in the system, but for security reasons the repository doesn’t include the configuation files needed for the correct execution of the PoC, we will provide it when asked.
