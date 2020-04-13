@@ -9,4 +9,4 @@ This is the [class](https://www.math.unipd.it/~tullio/IS-1/2019/) reference.
 ## Components
 We build this project upon three modules [Etherless-cli](https://github.com/TennersUnipd/etherless-cli), [Etherless-smart](https://github.com/TennersUnipd/etherless-smart), [Etherless-server](https://github.com/TennersUnipd/etherless-server).
 
-For setup and develop envoirment infomation please refer to the userManual or developerManual in documentation.
+For setup and development environment information, please refer to the user manual or developer manual in the documentation.
